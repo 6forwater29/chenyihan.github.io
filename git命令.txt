@@ -1,0 +1,6 @@
+git init
+git remote add superman https://github.com/6forwater29/chenyihan.github.io.git
+git pull --rebase superman master(或者main)
+git add .
+git commit -m "Some changes to about.md"
+git push -u superman master

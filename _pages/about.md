@@ -15,14 +15,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Master of Science of Business Administration<br>
+Email: <cyh15927523553@bupt.edu.cn>    
 [Beijing University of Posts and Telecommunications](https://grs.bupt.edu.cn/)<br>
 10 Xitucheng Road, Haidian District, Beijing, China<br>
-Github || Resume
+Github || Resume || ResearchGate
 
 Introduction...
 
 **Research interest:**  Behaviour strategy  
-**Methods:**  NLP(based on transformers), Causal inference  
+**Methodological:**  NLP(based on transformers), Causal inference, Topic modeling(LDA)  
 **Skills:** Python, Stata, R, Latex  
 **Foundation of mathematics:** Optimization, Bayesian statistics  
 **Courses I have learned:**  
