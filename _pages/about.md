@@ -22,11 +22,16 @@ Github || Resume || ResearchGate
 
 Introduction...
 
-**Research interest:**  Behaviour strategy  
-**Methodological:**  NLP(based on transformers), Causal inference, Topic modeling(LDA)  
-**Skills:** Python, Stata, R, Latex  
-**Foundation of mathematics:** Optimization, Bayesian statistics  
+**Affiliated organization**: Intended member of Datawhale  
+If you want more information about Datawhale, please visit [Datawhale](https://github.com/datawhalechina)!  
+I am now a teaching assistant for the Big Model learning activity in May.  
+
+**Research interest:**  Behavioral domain, etc.  
+**Methodological:**  NLP(based on transformers)(Learning), Causal inference(Learning), Topic modeling(LDA)(Learned)  
+**Skills(by frequency):** Python, Stata, Latex, R  
+**Foundation of mathematics:** Bayesian statistics, Mathematical Foundations of Machine Learning, Optimization(learning)   
 **Courses I have learned:**  
 **Books I have read:**  
+**GRE:** 153+168
 
 
