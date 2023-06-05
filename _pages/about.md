@@ -30,8 +30,8 @@ I am now a teaching assistant for the LLM learning activity in May.
 **Methodological:**  NLP(based on transformers)(Learning), Causal inference(Learning), Topic modeling(LDA)(Learned)  
 **Skills(by frequency):** Python, Stata, Latex, R  
 **Foundation of mathematics:** Bayesian statistics, Mathematical Foundations of Machine Learning, Optimization(learning)   
-**Courses I have learned:**  Mathematical Foundations of Machine Learning(95), Bayesian Statistics: Basic Principles and Advanced Applications(92), Data Management and Database(94), Probability Theory and Mathematical Statistics(93), Advanced Mathematics B (II)(90)
+**Courses I have learned:**  Mathematical Foundations of Machine Learning(95), Bayesian Statistics: Basic Principles and Advanced Applications(92), Data Management and Database(94), Probability Theory and Mathematical Statistics(93), Advanced Mathematics B (II)(90)  
 **Books I have read:**  
-**GRE:** 153+168
+**GRE:** 321
 
 
