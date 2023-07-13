@@ -26,10 +26,10 @@ Introduction...
 If you want more information about Datawhale, please visit [Datawhale](https://github.com/datawhalechina)!  
 
 **Research interest:**  Decision-making, Organizational learning, etc.  
-**Methodological:**  NLP(based on transformers)(Learning), Causal inference(Learning), Topic modeling(LDA)(Learned)  
+**Methodological:**  NLP (based on transformers) (Learning), Causal inference (Learning), Topic modeling (LDA) (Learned)  
 **Skills(by frequency):** Python, Stata, Latex, R  
-**Foundation of mathematics:** Bayesian statistics, Mathematical Foundations of Machine Learning, Optimization(learning)   
-**Courses I have learned:**  Mathematical Foundations of Machine Learning(95), Bayesian Statistics: Basic Principles and Advanced Applications(92), Data Management and Database(94), Probability Theory and Mathematical Statistics(93), Advanced Mathematics B (II)(90)  
+**Foundation of mathematics:** Bayesian statistics (would learning deeply in the future), Mathematical Foundations of Machine Learning, Optimization (learning)   
+**Courses I have learned:**  Mathematical Foundations of Machine Learning (95), Bayesian Statistics: Basic Principles and Advanced Applications (92), Data Management and Database (94), Probability Theory and Mathematical Statistics (93), Advanced Mathematics B (II) (90)  
 **Books I have read:**  
 **GRE:** 321
 
