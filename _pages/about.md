@@ -25,7 +25,7 @@ Introduction...
 **Affiliated organization**: Intended member of Datawhale  
 If you want more information about Datawhale, please visit [Datawhale](https://github.com/datawhalechina)!  
 
-**Research interest:**  Decision-making, Organizational learning, etc.  
+**Research interest:**  Managerial Decision-making, Organizational learning, etc.  
 **Methodological:**  NLP (based on transformers) (Learning), Causal inference (Learning), Topic modeling (LDA) (Learned)  
 **Skills(by frequency):** Python, Stata, Latex, R  
 **Foundation of mathematics:** Bayesian statistics (would learning deeply in the future), Mathematical Foundations of Machine Learning, Optimization (learning)   
